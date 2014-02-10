@@ -1,0 +1,12 @@
+mkdir Age
+mkdir boxplot
+mkdir PCA
+mkdir Slice
+mkdir ./Age/boxplotPart1
+mkdir ./Age/boxplotPart1/diagnosis_data
+mkdir ./Age/boxplotPart2
+mkdir ./Age/boxplotPart2/diagnosis_data
+mkdir ./Age/boxplotPart3
+mkdir ./Age/boxplotPart3/diagnosis_data
+mkdir ./Age/boxplotPart4
+mkdir ./Age/boxplotPart4/diagnosis_data
